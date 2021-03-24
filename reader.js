@@ -24,4 +24,4 @@ const findTargetStringFromSource = (str) => {
   })
 }
 
-findTargetStringFromSource('target')
+const output = findTargetStringFromSource('target')
